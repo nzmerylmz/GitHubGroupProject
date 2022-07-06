@@ -4,7 +4,7 @@ public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello Guys");
         System.out.println("melike");
-        System.out.println("Barış");
+        System.out.println("Barış 7");
     }
 
 }

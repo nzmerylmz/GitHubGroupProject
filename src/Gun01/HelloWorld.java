@@ -6,5 +6,4 @@ public class HelloWorld {
         System.out.println("melike");
         System.out.println("melike 222");
     }
-
 }
